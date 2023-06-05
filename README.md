@@ -1,1 +1,1 @@
-# simple-django
+# simpledjango
